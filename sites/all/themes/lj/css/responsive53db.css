@@ -1,0 +1,310 @@
+@media (max-width : 360px) {
+	.navbar-header{
+		width:100%;
+	}
+
+	.navbar-header img{
+		width:100%;
+	}
+	
+	.sr-only{
+		width:100%;
+		position:relative;
+		background:url(images/menu.html) no-repeat 10px center;
+		padding:10px 50px;
+	}
+	
+	#navbar-collapse{
+		width:100%;
+	}
+	
+	#navbar-collapse{
+		width:100%;
+	}
+	
+	.sf-menu li{
+		width:100%;
+		clear:both;
+		border-bottom:1px solid #e7e7e7;
+	}
+	
+	.sf-menu ul li{
+		background:rgba(206,23,31,0.7);
+	}
+	
+	.sf-menu.sf-horizontal.sf-shadow ul{
+		margin-top:0px;
+	}
+	
+	.sf-menu.sf-horizontal.sf-shadow  > li:hover > ul ,
+	.sf-menu.sf-horizontal.sf-shadow  > li.sfHover > ul
+	{
+		left: auto !important;
+		position: relative;
+		top: auto !important;
+	} 
+	
+		
+	.caption{
+		width:100%;
+		font-size:12px;
+		top:0;
+		left:0;
+		padding:10px 0;
+	}
+	
+	.navbar-nav, #superfish-1{
+		margin-top:0;
+	}
+	
+	.process-header{
+		width:100%;
+	}
+	
+	#quicktabs-design_process ul{
+		padding:10px 0 0 0;
+	}
+	
+	#quicktabs-design_process li,
+	#quicktabs-design_process li a{
+		padding:5px 5px 10px 5px;
+	}
+	
+	#quicktabs-design_process li{
+		background:none !important;
+		border-right:1px solid #919191;
+	}
+	
+	footer{
+		text-align:center !important;
+	}
+	
+	.developed-by{
+		text-align:center;
+	}
+	
+	.navbar-fixed-top{
+		position:relative;
+	}
+	
+	.navbar-right{
+		float:none;
+	}
+}
+
+@media only screen 
+and (min-width : 375px) 
+and (max-width : 667px) {
+	
+	.navbar-header{
+		width:100%;
+	}
+
+	.navbar-header img{
+		width:auto;
+	}
+	
+	.sr-only{
+		width:100%;
+		position:relative;
+		background:url(images/menu.html) no-repeat 10px center;
+		padding:10px 50px;
+	}
+	
+	#navbar-collapse{
+		width:100%;
+	}
+	
+	.sf-menu li{
+		width:100%;
+		clear:both;
+		border-bottom:1px solid #e7e7e7;
+	}
+	
+	.sf-menu.sf-horizontal.sf-shadow  > li:hover > ul ,
+	.sf-menu.sf-horizontal.sf-shadow  > li.sfHover > ul
+	{
+		left: auto !important;
+		position: relative;
+		top: auto !important;
+		overflow:auto;
+	} 
+	
+	.sf-menu.sf-horizontal.sf-shadow ul{
+		margin-top:0px;
+	}
+	
+	.caption{
+		width:100%;
+		font-size:12px;
+		top:0;
+		left:0;
+		padding:10px 0;
+	}
+	
+	.navbar-nav, #superfish-1{
+		margin-top:0;
+	}
+	
+	.process-header{
+		width:100%;
+	}
+	
+	#quicktabs-design_process ul{
+		padding:10px 0 0 0;
+	}
+	
+	#quicktabs-design_process li,
+	#quicktabs-design_process li a{
+		padding:5px 5px 10px 5px;
+	}
+	
+	#quicktabs-design_process li{
+		background:none !important;
+		border-right:1px solid #919191;
+	}
+	
+	footer{
+		text-align:center !important;
+	}
+	
+	.developed-by{
+		text-align:center; 	
+	}
+	
+	.navbar-fixed-top{
+		position:relative;
+	}
+	
+	.navbar-right{
+		float:none;
+	}
+}
+
+
+@media only screen 
+and (min-width : 375px) 
+and (max-width: 767px) {
+	.navbar-header{
+		width:100%;
+	}
+
+	.navbar-header img{
+		width:auto;
+	}
+	
+	#navbar-collapse{
+		width:100%;
+	}
+	
+	.sr-only{
+		width:100%;
+		position:relative;
+		background:url(images/menu.html) no-repeat 10px center;
+		padding:10px 50px;
+	}
+	
+	.sf-menu li{
+		width:100%;
+		clear:both;
+	}
+	
+	.sf-menu.sf-horizontal.sf-shadow > li:hover > ul ,
+	.sf-menu.sf-horizontal.sf-shadow > li.sfHover > ul
+	{
+		left: auto !important;
+		position: relative;
+		top: auto !important;
+		overflow:auto;
+	} 
+		
+	.sf-menu.sf-horizontal.sf-shadow ul{
+		margin-top:0px;
+	}
+	
+		
+	.caption{
+		width:100%;
+		font-size:12px;
+		top:0;
+		left:0;
+		padding:10px 0;
+	}
+	
+	.navbar-nav, #superfish-1{
+		margin-top:0;
+	}
+	
+	.process-header{
+		width:100%;
+	}
+	
+	#quicktabs-design_process ul{
+		padding:10px 0 0 0;
+	}
+	
+	#quicktabs-design_process li,
+	#quicktabs-design_process li a{
+		padding:5px 5px 10px 5px;
+	}
+	
+	#quicktabs-design_process li{
+		background:none !important;
+		border-right:1px solid #919191;
+	}
+	
+	footer{
+		text-align:center !important;
+	}
+	
+	.developed-by{
+		text-align:center;
+	}
+	
+	.navbar-fixed-top{
+		position:relative;
+	}
+	
+	.navbar-right{
+		float:none;
+	}
+}
+
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 1024px) {
+	.navbar-header{
+		width:100%;
+	}
+
+	.navbar-header img{
+		width:auto;
+	}
+	
+	
+	#navbar-collapse{
+		width:100%
+		
+	}
+	
+	.navbar-fixed-top{
+		position:relative;
+	}
+	
+	#quicktabs-design_process ul{
+		padding:50px 0 0 0;
+	}
+	
+	#quicktabs-design_process li,
+	#quicktabs-design_process li a{
+		padding:80px 15px 17px 15px;
+	}
+	
+	.sf-menu.sf-horizontal.sf-shadow ul{
+		margin:21px 0 0 0;
+		
+	}
+	
+}
+
+
